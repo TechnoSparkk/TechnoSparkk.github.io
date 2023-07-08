@@ -583,6 +583,8 @@ html {
 
 .camp1 .left {
     width: 30%;
+    display: flex;
+    align-items: center;
 }
 
 .camp1 .right {
@@ -662,6 +664,8 @@ html {
 
 .camp2 .left {
     width: 30%;
+    display: flex;
+    align-items: center;
 }
 
 .camp2 .right {
@@ -711,6 +715,7 @@ html {
 .camp4 .left {
     display: flex;
     width: 30%;
+    align-items: center;
 }
 
 .camp4 .right {
