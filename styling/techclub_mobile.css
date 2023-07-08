@@ -408,7 +408,7 @@
     /* Footer Section  */
     .footer .upper {
         flex-direction: column;
-        width: 90%;
+        width: 95%;
     }
 
     .upper .first_u img {
@@ -421,7 +421,7 @@
     }
 
     .mobile_upper2 {
-        width: 95%;
+        width: 96%;
         justify-content: space-between;
     }
 
