@@ -420,7 +420,7 @@ body, html{
 
 .footer .down li{
     color: darkslategrey;
-    margin: 3px 8px;
+    margin: 6px 8px;
     font-size: 4vmin;
     cursor: pointer;
 }
